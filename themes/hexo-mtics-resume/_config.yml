@@ -1,0 +1,67 @@
+title: Résumé
+
+footer:
+  enable: true # decide where you want to show  your footer
+  copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
+    startYear: 2026
+    currentYear: 2026
+    author: Li Ma
+    link: https://imoe.ac.cn/
+    beian: '沪ICP备2022019959号-1 沪公网安备31010402335571号'
+
+
+
+################################
+#     Write your resume Here   #
+################################
+resume:
+  name: Li Ma
+  jobtitle: 
+  portrait: 
+  contact:
+    - icon: fa-envelope
+      text: i@imoe.ac.cn
+    - icon: fa-phone
+      text: +86-21-51016665-0 +1-616-319-3605
+    - icon: fa-globe
+      text: imoe.ac.cn
+      link: https://www.imoe.ac.cn/
+    - icon: fa-github
+      text: hanyan-rst
+      link: https://github.com/hanyan-rst
+  education:
+    - university: Your First University
+      duration: Jul 2011 - Dec 2012
+      location: Consectetur adipiscing elit
+      major: Lorem ipsum dolor sit amet
+    - university: Your Second University
+      duration: Aug 2007 - Jun 2011
+      location: Ut enim ad minim veniam
+      major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  experience:
+    - title: Job Title 1
+      duration: Apr 2016 - Now
+      company: Your 1st, Inc.
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - title: Job Title 2
+      duration: Apr 2013 - Mar 2016
+      company: Your 2nd, Inc.
+      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - title: Job Title 3
+      duration: Dec 2011 - Mar 2012
+      company: Your 3rd Co, Ltd.
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  projects:
+    - name: Project Name 1
+      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      contribution: Contributor.
+    - name: Project Name 2
+      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      contribution: Creator and maintainer.
+  skills:
+    - title: Skill Group 1
+      items: Lorem, Ipsum, Dolor, Sit, Amet
+    - title: Skill Group 2
+      items: Consectetur, Adipiscing, Elit
+    - title: Skill Group 3
+      items: Sed do, Eiusmod, Tempor, Incididunt
