@@ -45,6 +45,9 @@ resume:
       company: Shanghai Funxun Network Technology Co., Ltd.
       description: Collaborated with Shenzhen Mangning Data to architect global network acceleration services. Spearheaded in-depth analysis of mainland China’s ISP topologies and primary gateways to optimize routing paths for diverse service requirements. Engineered and maintained a high-performance 10Gbps SFP+/PON optical fiber infrastructure. Leveraged KVM virtualization and SD-WAN technologies to deliver scalable, multi-tenant network resources. Designed comprehensive cybersecurity frameworks and served as the primary responder for critical network security incidents, ensuring 24/7 environment integrity.
   projects:
+    - name: Cloud File Dropbox (file.imoe.ac.cn)
+      description: Designed and deployed a Serverless File Transfer Assistant utilizing a Direct-to-S3 upload architecture to eliminate server bottlenecks, featuring secure OIDC integration and local authentication for access control, while providing a dedicated management interface for administrative S3 bucket operations and claim-code-based file retrieval.
+      contribution:
     - name: A Robust Multi-Classification Algorithm Based on TabNet for Infrared Spectral Data of Chinese herbal medicine
       description: Infrared Physics and Technology
       contribution: Data visualization, Resources and Data curation during the research.
