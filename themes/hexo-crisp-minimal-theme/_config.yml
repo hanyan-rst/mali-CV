@@ -48,9 +48,18 @@ resume:
     - name: A Robust Multi-Classification Algorithm Based on TabNet for Infrared Spectral Data of Chinese herbal medicine
       description: Infrared Physics and Technology
       contribution: Data visualization, Resources and Data curation during the research.
-    - name: Project Name 2
-      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      contribution: Creator and maintainer.
+    - name: Application and Deployment of VPN Technology in Enterprise Networks
+      description: Describing different VPN technologies and their applications in different situations.
+      contribution: Thesis part of China Qualification of Computer and Software Technology Proficiency
+    - name: ADS‑B Technology and its Application and Promotion
+      description: Expounded the architecture of ADS‑B technology concisely and compared it with several original technologies.
+      contribution: China Civil Aviation 2017 Vol.10(23)
+    - name: A Dual‑Stack Global Experimental Software Defined Network
+      description: Designed and maintained A Dual-Stack Global Experimental Software Defined Network by architecting a hybrid cloud-to-home infrastructure utilizing BGP for dynamic routing, establishing multi-branch tunnels across global nodes to ensure seamless IPv4/IPv6 dual-stack connectivity, and implementing advanced traffic engineering to achieve high-performance, low-latency interconnections between cloud instances and private lab environments.
+      contribution: Mali Network(AS203691)
+    - name: Home Network Lab
+      description: Developed and maintained a high-availability Home Network Lab leveraging Proxmox VE virtualization to deploy a multi-site SD-WAN architecture via WireGuard, featuring MikroTik RouterOS for enterprise-grade routing, international network optimization through policy-based traffic splitting, and a full-stack IPv6 implementation secured by SSL VPN and robust firewall configurations.
+      contribution: 
   languages:
     - name: English
       proficiency: Work proficiency
