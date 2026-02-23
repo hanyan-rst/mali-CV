@@ -11,6 +11,9 @@
   {% if theme.footer.copyright.beian %}
    | <a href="http://beian.miit.gov.cn/">{{ theme.footer.copyright.beian }}</a>
   {% endif %}
+  {% if theme.footer.copyright.mpsbeian %}
+   | <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=">{{ theme.footer.copyright.mpsbeian }}</a>
+  {% endif %}
   <br/>
   {{ __('footer.poweredby') }} <a href="https://hexo.io/zh-cn/">Hexo</a> <i class="fa fa-heart aria-hidden="true></i> Theme <a href="https://github.com/mtics/hexo-mtics-resume">Mtics Resume</a></span>
 </footer>

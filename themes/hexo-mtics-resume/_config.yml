@@ -7,8 +7,8 @@ footer:
     currentYear: 2026
     author: 'Li Ma'
     link: https://imoe.ac.cn/
-    beian: '沪ICP备2022019959号-1 沪公网安备31010402335571号'
-
+    beian: '沪ICP备2022019959号-1'
+    mpsbeian: '沪公网安备31010402335571号'
 
 
 ################################
@@ -30,38 +30,38 @@ resume:
       text: hanyan-rst
       link: https://github.com/hanyan-rst
   education:
-    - university: Your First University
-      duration: Jul 2011 - Dec 2012
-      location: Consectetur adipiscing elit
-      major: Lorem ipsum dolor sit amet
-    - university: Your Second University
-      duration: Aug 2007 - Jun 2011
-      location: Ut enim ad minim veniam
-      major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - university: Shanghai Jian Qiao University, College of Information Technology
+      duration: Oct 2022 - June 2024
+      location: Shanghai, China
+      major: B.Eng in Computer Science and Technology
+    - university: Shanghai Polytechnic University, College of International Vocational Education
+      duration: Sep 2020 - June 2022
+      location: Shanghai, China
+      major: Association Degree in Computer Network Technology
   experience:
-    - title: Job Title 1
-      duration: Apr 2016 - Now
-      company: Your 1st, Inc.
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    - title: Job Title 2
-      duration: Apr 2013 - Mar 2016
-      company: Your 2nd, Inc.
-      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    - title: Job Title 3
-      duration: Dec 2011 - Mar 2012
-      company: Your 3rd Co, Ltd.
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - title: Information Technician, Network Information Center
+      duration: July 2024 - Now
+      company: Shanghai Commercial Accounting School
+      description: 
+    - title: Network Administrator \& Information Technology Teacher (Intern)
+      duration: June 2023  - July 2024
+      company: Shanghai Caoyang No.2 High School
+      description: Spearheaded school-wide digital transformation by orchestrating the integration of infrastructure resources, significantly optimizing system reliability and scalability. Architected and maintained robust campus network environments and mission-critical information systems. Beyond operations, engineered bespoke software solutions to automate IT curriculum support and administrative workflows. Provided core technical assurance for large-scale digital examinations and high-stakes online/offline events while leading advanced elective courses in CS and technological innovation.
+    - title: Founder
+      duration: Dec 2018 ‑ Aug 2021
+      company: Shanghai Funxun Network Technology Co., Ltd.
+      description: Collaborated with Shenzhen Mangning Data to architect global network acceleration services. Spearheaded in-depth analysis of mainland China’s ISP topologies and primary gateways to optimize routing paths for diverse service requirements. Engineered and maintained a high-performance 10Gbps SFP+/PON optical fiber infrastructure. Leveraged KVM virtualization and SD-WAN technologies to deliver scalable, multi-tenant network resources. Designed comprehensive cybersecurity frameworks and served as the primary responder for critical network security incidents, ensuring 24/7 environment integrity.
   projects:
-    - name: Project Name 1
-      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      contribution: Contributor.
+    - name: A Robust Multi-Classification Algorithm Based on TabNet for Infrared Spectral Data of Chinese herbal medicine
+      description: Infrared Physics and Technology
+      contribution: Data visualization, Resources and Data curation during the research.
     - name: Project Name 2
       description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       contribution: Creator and maintainer.
   skills:
-    - title: Skill Group 1
-      items: Lorem, Ipsum, Dolor, Sit, Amet
-    - title: Skill Group 2
-      items: Consectetur, Adipiscing, Elit
-    - title: Skill Group 3
-      items: Sed do, Eiusmod, Tempor, Incididunt
+    - title: Network & Security Devices
+      items: Cisco, Mikrotik, Huawei, H3C, Fortigate, Sophos, Synology, Server.
+    - title: Cloud Computing
+      items: Linux, Windows Server, VMware Vsphere, Omnissa Horizon, Proxmox VE, Docker, AWS, Azure, Vultr, etc.
+    - title: Network Implementing & Maintaining
+      items: BGP, OSPF, RIP, Tunnel, SD-WAN, SDN, VPN, etc.
