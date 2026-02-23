@@ -5,7 +5,7 @@ footer:
   copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
     startYear: 2026
     currentYear: 2026
-    author: Li Ma
+    author: 'Li Ma'
     link: https://imoe.ac.cn/
     beian: '沪ICP备2022019959号-1 沪公网安备31010402335571号'
 
@@ -15,14 +15,14 @@ footer:
 #     Write your resume Here   #
 ################################
 resume:
-  name: Li Ma
-  jobtitle: 'Network \& Cybersecurity Engineer'
+  name: 'Li Ma'
+  jobtitle: 'Network & Cybersecurity Engineer'
   portrait: 
   contact:
     - icon: fa-envelope
       text: i@imoe.ac.cn
     - icon: fa-phone
-      text: +86-21-51016665-0 +1-616-319-3605
+      text: +86-21-51016665 ext. 0
     - icon: fa-globe
       text: imoe.ac.cn
       link: https://www.imoe.ac.cn/
