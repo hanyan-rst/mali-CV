@@ -45,6 +45,9 @@ resume:
       company: Shanghai Funxun Network Technology Co., Ltd.
       description: Collaborated with Shenzhen Mangning Data to architect global network acceleration services. Spearheaded in-depth analysis of mainland China’s ISP topologies and primary gateways to optimize routing paths for diverse service requirements. Engineered and maintained a high-performance 10Gbps SFP+/PON optical fiber infrastructure. Leveraged KVM virtualization and SD-WAN technologies to deliver scalable, multi-tenant network resources. Designed comprehensive cybersecurity frameworks and served as the primary responder for critical network security incidents, ensuring 24/7 environment integrity.
   projects:
+    - name: Construction Practice of a Dual-Channel Low-Cost High-Precision BeiDou + GPS Time Synchronization System
+      description: Changjiang Information & Communications
+      contribution:
     - name: 2026 World 'AI+Radio' Challenge
       description: Special Award
       contribution:
